@@ -1,5 +1,4 @@
 # Summary
-
 ## README
 * [README](README.md)
 ## 1 Java
@@ -7,6 +6,7 @@
 * [RandomAccessFile](RandomAccessFile.md)
 * [唤醒notify等待wait](唤醒notify等待wait.md)
 * [Java三种创建线程的方式](Java三种创建线程的方式.md)
+* [static和final关键字](static和final关键字.md)
 
 ## 2 题库
 * [Java笔试](Java笔试.md)
