@@ -2,4 +2,4 @@
 
 * [摘要](SUMMARY.md)
 
-![image](https://github.com/hezi617/heziBook/raw/master/images/.jpg)
+![image](https://github.com/hezi617/heziBook/raw/master/images/SelectYou.jpg)
